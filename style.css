@@ -92,10 +92,10 @@ div.row {
     padding: 16px 16px;
   }
 
-  .footer {
+/*   .footer {
     position: fixed;
     bottom: 0;
-  }
+  } */
 }
 
 @media only screen and (max-width: 800px) {
